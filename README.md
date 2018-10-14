@@ -12,4 +12,4 @@ https://www.learn2crack.com/2016/09/android-user-registration-login-node-server.
 
 https://play.google.com/store/apps/details?id=com.bbkimAssign
 
-
+* I use AWS's ubuntu 16.06 LTS for backend server
